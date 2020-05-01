@@ -5,7 +5,7 @@ This simple timer allows you to track Pomodoros with the greatest of ease!
 ### To use:
 
 ```shell
-$ go get code.hollensbe.org/erikh/i3-pomodoro
+$ go get github.com/erikh/i3-pomodoro
 ```
 
 Then put this in your i3blocks configuration
